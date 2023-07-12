@@ -34,7 +34,7 @@ const StatBox = ({ title, subtitle, icon, progress, increase }) => {
             >
                 {increase}
             </Typography>
-        </Box>        
+        </Box>  
     </Box>
   );
 };
